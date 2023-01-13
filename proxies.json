@@ -1,0 +1,176 @@
+[
+    {
+        "protocol": "http",
+        "host": "187.109.40.193",
+        "port": "20183",
+        "auth": {}
+    },
+    {
+        "protocol": "http",
+        "host": "187.115.83.11",
+        "port": "5555",
+        "auth": {}
+    },
+    {
+        "protocol": "http",
+        "host": "170.233.240.3",
+        "port": "3180",
+        "auth": {}
+    },
+    {
+        "protocol": "http",
+        "host": "177.93.37.87",
+        "port": "999",
+        "auth": {}
+    },
+    {
+        "protocol": "http",
+        "host": "177.22.111.77",
+        "port": "8080",
+        "auth": {}
+    },
+    {
+        "protocol": "http",
+        "host": "177.220.226.122",
+        "port": "50151",
+        "auth": {}
+    },
+    {
+        "protocol": "http",
+        "host": "192.140.42.81",
+        "port": "47277",
+        "auth": {}
+    },
+    {
+        "protocol": "http",
+        "host": "187.19.158.13",
+        "port": "80",
+        "auth": {}
+    },
+    {
+        "protocol": "http",
+        "host": "168.227.56.96",
+        "port": "8080",
+        "auth": {}
+    },
+    {
+        "protocol": "http",
+        "host": "138.94.236.71",
+        "port": "8080",
+        "auth": {}
+    },
+    {
+        "protocol": "http",
+        "host": "187.19.155.96",
+        "port": "3128",
+        "auth": {}
+    },
+    {
+        "protocol": "http",
+        "host": "177.68.149.122",
+        "port": "8080",
+        "auth": {}
+    },
+    {
+        "protocol": "http",
+        "host": "45.230.227.134",
+        "port": "666",
+        "auth": {}
+    },
+    {
+        "protocol": "http",
+        "host": "192.140.102.162",
+        "port": "8080",
+        "auth": {}
+    },
+    {
+        "protocol": "http",
+        "host": "45.162.132.1",
+        "port": "999",
+        "auth": {}
+    },
+    {
+        "protocol": "http",
+        "host": "179.189.125.222",
+        "port": "8080",
+        "auth": {}
+    },
+    {
+        "protocol": "http",
+        "host": "45.7.177.238",
+        "port": "34234",
+        "auth": {}
+    },
+    {
+        "protocol": "http",
+        "host": "186.227.49.186",
+        "port": "3128",
+        "auth": {}
+    },
+    {
+        "protocol": "http",
+        "host": "167.250.160.166",
+        "port": "8080",
+        "auth": {}
+    },
+    {
+        "protocol": "http",
+        "host": "201.91.82.155",
+        "port": "3128",
+        "auth": {}
+    },
+    {
+        "protocol": "http",
+        "host": "177.93.50.234",
+        "port": "999",
+        "auth": {}
+    },
+    {
+        "protocol": "http",
+        "host": "138.219.244.154",
+        "port": "6666",
+        "auth": {}
+    },
+    {
+        "protocol": "http",
+        "host": "187.95.112.36",
+        "port": "6666",
+        "auth": {}
+    },
+    {
+        "protocol": "http",
+        "host": "177.23.187.95",
+        "port": "5566",
+        "auth": {}
+    },
+    {
+        "protocol": "http",
+        "host": "187.62.191.3",
+        "port": "61456",
+        "auth": {}
+    },
+    {
+        "protocol": "http",
+        "host": "187.17.232.6",
+        "port": "8089",
+        "auth": {}
+    },
+    {
+        "protocol": "http",
+        "host": "200.201.142.18",
+        "port": "8080",
+        "auth": {}
+    },
+    {
+        "protocol": "http",
+        "host": "177.220.188.213",
+        "port": "8080",
+        "auth": {}
+    },
+    {
+        "protocol": "http",
+        "host": "138.255.240.66",
+        "port": "41466",
+        "auth": {}
+    }
+]
